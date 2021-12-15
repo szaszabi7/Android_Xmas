@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">XmasApp</string>
+    <string name="szamlaloFormatum">%03d nap %02d:%02d:%02d</string>
 </resources>
